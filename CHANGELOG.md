@@ -1,5 +1,17 @@
 # @primer/components
 
+## 35.2.2
+
+### Patch Changes
+
+- [#2058](https://github.com/primer/react/pull/2058) [`ab30f14a`](https://github.com/primer/react/commit/ab30f14a3ff70a2d6146366f777ebfd5f1907ff3) Thanks [@colebemis](https://github.com/colebemis)! - Add draft of `NavList` component
+
+* [#2038](https://github.com/primer/react/pull/2038) [`1c2eeb9c`](https://github.com/primer/react/commit/1c2eeb9c4a1370db5555a089c7e99f06d49ac043) Thanks [@mperrotti](https://github.com/mperrotti)! - Fixes accessibility bugs in the Select component.
+
+- [#2050](https://github.com/primer/react/pull/2050) [`0f9edcac`](https://github.com/primer/react/commit/0f9edcaca4973c9e998362004e7d549989b59c6f) Thanks [@mperrotti](https://github.com/mperrotti)! - Finishes updating components with the global focus styles defined in Primer CSS ([this PR](https://github.com/primer/css/pull/1744))
+
+* [#2048](https://github.com/primer/react/pull/2048) [`4e15985b`](https://github.com/primer/react/commit/4e15985b5d2c7c64ec507e2e362d509f3acd79d8) Thanks [@siddharthkp](https://github.com/siddharthkp)! - ThemeProvider: Bug fix, in `colorMode=auto`, the theme now syncs with system changes.
+
 ## 35.2.1
 
 ### Patch Changes
